@@ -19,9 +19,9 @@ block b-info {
                 elem: 'name',
                 tag: 'h1',
                 cls: 'fn',
-                content: 'Михаил Трошев'
+                content: 'Сергей Белов'
             },
-            { elem: 'position', tag: 'strong', content: 'разработчик интерфейсов' },
+            { elem: 'position', tag: 'strong', content: 'руководитель группы разработки' },
             {
                 elem: 'address',
                 tag: 'p',
@@ -39,7 +39,7 @@ block b-info {
                 elem: 'links',
                 tag: 'p',
                 content: (
-                    '<a class="email" href="mailto:mishanga@yandex-team.ru">mishanga@yandex-team.ru</a>'
+                    '<a class="email" href="mailto:arikon@yandex-team.ru">arikon@yandex-team.ru</a>'
                 )
             }
         ]

@@ -1,6 +1,6 @@
 ({
     block: 'b-page',
-    title: 'Михаил Трошев — mishanga@yandex-team.ru',
+    title: 'Сергей Белов — arikon@yandex-team.ru',
     head: [
         { elem: 'css', url: 'vcard.css'},
         { elem: 'favicon', url: '//yandex.ru/favicon.ico' }
