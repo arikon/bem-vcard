@@ -30,8 +30,8 @@ block b-info {
                     '<span class="locality">Москва</span>, ' +
                     '<span class="postal-code">119021</span><br>' +
                     '<span class="street-address">ул. Льва Толстого, д. 16</span></span><br>' +
-                    '<span class="tel"><abbr class="type" title="cell">сот.:</abbr> <span class="value">+7 (926) 226-74-29</span></span><br>' +
-                    '<span class="tel"><abbr class="type" title="work">тел.:</abbr> <span class="value">+7 (495) 739-70-00</span>, доб.: 6449</span><br>' +
+                    '<span class="tel"><abbr class="type" title="cell">сот.:</abbr> <span class="value">+7 (915) 132-82-86</span></span><br>' +
+                    '<span class="tel"><abbr class="type" title="work">тел.:</abbr> <span class="value">+7 (495) 739-70-00</span>, доб.: 6468</span><br>' +
                     '<a class="url" href="http://www.yandex.ru/">www.yandex.ru</a>'
                 )
             },
